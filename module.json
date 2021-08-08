@@ -1,0 +1,12 @@
+{
+    "name": "Pf2eFateTime",
+    "title": "Pf2e Fate Dice Time Tracking",
+    "description": "A modified version of the angry gms dice pool time tracking method",
+    "author": "AngelSnypz",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.8.8",
+    "compatibleCoreVersion": "0.8.8",
+    "scripts": [
+        "scripts/demo.js"
+    ]
+}
