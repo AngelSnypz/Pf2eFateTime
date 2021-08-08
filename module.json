@@ -8,5 +8,6 @@
     "compatibleCoreVersion": "0.8.8",
     "scripts": [
         "scripts/demo.js"
-    ]
+    ],
+    "url": "https://github.com/AngelSnypz/Pf2eFateTime"
 }
